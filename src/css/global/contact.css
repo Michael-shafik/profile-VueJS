@@ -1,0 +1,16 @@
+.bt1 {
+    padding: 18px;
+    margin: 15px;
+    float: left;
+    background-color: brown;
+    color: aliceblue;
+    overflow: hidden;
+}
+
+.d11 {
+    background-color: brown;
+    padding: 20px 30px;
+    margin: 20px 30px;
+    width: 200px;
+    background-position: 20% 30%;
+}

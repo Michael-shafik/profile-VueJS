@@ -1,0 +1,8 @@
+/* Resat file */
+
+@import "/dist/css/dist/css/bootstrap.min.css";
+@import "global/_my.css";
+@import "global/contact.css";
+@import "/src/main.js";
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Raleway:wght@400;700&family=Work+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&family=Varela+Round&display=swap');
